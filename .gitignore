@@ -1,6 +1,5 @@
+virtualenv.py
 /env
-virtualenv.py 
-
 
 *.py[cod]
 
